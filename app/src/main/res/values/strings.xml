@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sanal Dolabim</string>
+    <string name="drawer">Çekmece</string>
+    <string name="clothes">Kıyafet</string>
+    <string name="cabin">Kabin</string>
+    <string name="activity">Etkinlik</string>
+    <string name="name">İsim</string>
+    <string name="create">Oluştur</string>
+    <string name="save">Kaydet</string>
+    <string name="delete">Sil</string>
+    <string name="create_clothes">KIYAFET OLUŞTUR</string>
+    <string name="create_drawer">ÇEKMECE OLUŞTUR</string>
+</resources>
